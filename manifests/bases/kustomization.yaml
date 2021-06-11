@@ -1,2 +1,2 @@
 resources:
-- https://raw.githubusercontent.com/argoproj/argo-workflows/v3.0.7/manifests/namespace-install.yaml
+- https://raw.githubusercontent.com/argoproj/argo-workflows/stable/manifests/namespace-install.yaml
